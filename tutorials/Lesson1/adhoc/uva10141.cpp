@@ -2,8 +2,6 @@
 #include <iostream>
 #include <string>
 
-#define INT_MAX 999999999
-
 using namespace std;
 
 int main(void)
